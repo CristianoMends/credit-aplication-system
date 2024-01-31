@@ -1,4 +1,4 @@
-package com.example.creditapplication
+package com.example.creditapplication.repository
 
 import com.example.creditapplication.entity.Customer
 import org.springframework.data.jpa.repository.JpaRepository
